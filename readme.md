@@ -24,6 +24,7 @@ AnyVICP, 全称 Any Virtual Internet Content Provider
 - index.php 创建&代码编写
 - result.php 创建&代码编写
 - join.php 创建&代码编写
+- install.php 创建&代码编写 (会自毁)
 - (数据库组件) database.php 创建&代码编写
 - admin/index.php 创建&代码编写
 - admin/icpcheck.php 创建&代码编写
