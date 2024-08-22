@@ -12,7 +12,7 @@ AnyVICP,  Full name: Any Virtual Internet Content Provider
 
 ! [LICENSE]( https://img.shields.io/badge/LICENSE-MIT-green )
 ! [VERSION]( https://img.shields.io/badge/Version-2.0.0-blue )
-! [UI]( https://img.shields.io/badge/UI_Pack-MDUI_2-red )
+! [UI]( https://img.shields.io/badge/UI_Pack-MDUI_2_Bootstrap_5-red )
 
 >The origin of Any VICP is something the author came up with when they saw Moe ICP and had a sudden idea to write about it
 

@@ -11,7 +11,7 @@ AnyVICP, 全称 Any Virtual Internet Content Provider
 
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green)
 ![VERSION](https://img.shields.io/badge/Version-2.0.0-blue)
-![UI](https://img.shields.io/badge/UI_Pack-MDUI_2-red)
+![UI](https://img.shields.io/badge/UI_Pack-MDUI_2_Bootstrap_5-red)
 
 > Any VICP 的起源是作者看见了 Moe ICP (萌ICP备), 突发奇想写的一个玩意
 
