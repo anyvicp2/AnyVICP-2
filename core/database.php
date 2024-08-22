@@ -8,3 +8,11 @@ by DKoTechnology
 (功能)数据库连接
 */
 
+// 所有文件的加载函数
+function init(){
+    global $name;
+    global $url;
+    global $config;
+    $name = $config ['info']['name'];
+    $url = $config ['info']['url'];
+}
