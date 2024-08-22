@@ -16,7 +16,11 @@ AnyVICP, 全称 Any Virtual Internet Content Provider
 > Any VICP 的起源是作者看见了 Moe ICP (萌ICP备), 突发奇想写的一个玩意
 
 ### 快速安装
-
+1. git clone https://github.com/anyvicp2/AnyVICP2
+2. 你需要 NGINX \ APACHE PHP MYSQL
+3. 把 clone 下来的东西复制到网站目录
+4. 打开网站, 访问 网站/core/install/install.php 来安装
+5. 显示 '安装成功' 则可以转回到首页来使用了.
 
 ### 更新日志
 
@@ -31,3 +35,7 @@ AnyVICP, 全称 Any Virtual Internet Content Provider
 - admin/icpcheck.php 创建&代码编写
 - admin/email.php 创建&代码编写
 - by DKoTechnology
+
+##### 2024/8/21
+
+- 在 install.php installpost.php database.php joinapi.php result.php join.php index.php 中写代码
