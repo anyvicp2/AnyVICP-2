@@ -91,10 +91,9 @@ init();
 
             <mdui-navigation-drawer open class="index-navigation-drawer" style="color: gray;">
                 <mdui-list>
-                    <mdui-list-item>首页</mdui-list-item>
-                    <mdui-list-item>查询</mdui-list-item>
-                    <mdui-list-item>加入</mdui-list-item>
-                    <mdui-list-item>公告</mdui-list-item>
+                    <mdui-list-item class="btn-index" onclick="javascript:window.location.href='../index.php'">首页</mdui-list-item>
+                    <mdui-list-item class="btn-search" onclick="javascript:window.location.href='../index.php'">查询</mdui-list-item>
+                    <mdui-list-item class="btn-join" onclick="javascript:window.location.href='../join/join.php'">加入</mdui-list-item>
                 </mdui-list>
             </mdui-navigation-drawer>
 

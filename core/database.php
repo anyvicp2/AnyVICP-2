@@ -56,3 +56,28 @@ function getinfo($domain) {
         return array();
     }
 }
+
+// 创建条目
+
+function create($domain, $name, $author, $createDate, $icpNumber) {
+    // 连接数据库
+    /*
+    Config 格式:
+    $config['db'] = array(
+        'host' => 'localhost',
+        'username' => 'root',
+        'password' => '',
+        'dbname' => ''
+    );
+    */
+    global $config;
+    $db = new mysqli($config['db']['host'], $config['db']['username'], $config['db']['password'], $config['db']['dbname']);
+    if ($db->connect_error) {
+        header("Location: ./install.php");
+        exit();
+    }
+    $sql = "INSERT INTO `Websites` (`domain`, `name`, `author`, `createDate`, `icpNumber`) VALUES ('$domain', '$name', '$author', '$createDate', '$icpNumber')";
+    $result = $db->query($sql);
+    $db->close();
+    return $result;
+}
