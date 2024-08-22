@@ -4,6 +4,8 @@
 
 # AnyVICP 2
 
+(中文)["./readme_en-US.md"] ~ English
+
 AnyVICP,  Full name: Any Virtual Internet Content Provider
 
 --A visually appealing open-source virtual ICP filing--
