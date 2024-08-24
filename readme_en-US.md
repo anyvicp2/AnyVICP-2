@@ -42,3 +42,7 @@ AnyVICP,  Full name: Any Virtual Internet Content Provider
 ##### 2024/8/22
 - Write code in 
 install.php installpost.php database.php joinapi.php result.php join.php index.php
+
+##### 2024/8/24
+- PHP Edition is stop update. If have any fatal bug, please go to issue.
+- PythonEdition: (CLICK ME)[https://github.com/anyvicp/AnyVICP-2-PLUS]
