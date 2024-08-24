@@ -4,7 +4,7 @@
 
 # AnyVICP 2
 
-中文 ~ !(English)[./readme_en-US.md]
+中文 ~ !(English)[https://github.com/anyvicp2/AnyVICP-2/readme_en-US.md]
 AnyVICP, 全称 Any Virtual Internet Content Provider
 
 -- 一个 UI 好看的开源虚拟 ICP 备案 --
@@ -41,4 +41,4 @@ AnyVICP, 全称 Any Virtual Internet Content Provider
 - 在 install.php installpost.php database.php joinapi.php result.php join.php index.php 中写代码
 
 ##### 2024/8/24
-- PHP 项目停止更新, 后续所有内容均在 ![Python Edition](https://github.com/anyvicp2/AnyVICP-2)
+- PHP 项目停止更新, 后续所有内容均在 ![Python Edition](https://github.com/anyvicp2/AnyVICP-2-PLUS)
